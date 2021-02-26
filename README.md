@@ -16,16 +16,16 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## HackerRank Badges
 
-![Python](/Badges/python_5_star.png)
+![Python](/badges/python_5_star.png)
 
 ## HackerRank Certificates
 
 <a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
-    <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+    <img src="badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
 <a href="Skills%20Certification/Java%20(Basic)%20Certificate.png">
-    <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
+    <img src="badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
 </a>
 <a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
-    <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
+    <img src="badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
 </a>
