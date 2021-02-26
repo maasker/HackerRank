@@ -1,8 +1,5 @@
-<p align="center">
-    <a href="https://www.hackerrank.com/maasker">
-        <img alt="HackerRank Logo | Matin Hassanloo Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
-    </a>
-</p>
+<p align="center"><a href="https://www.hackerrank.com/maasker"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+
 
 # HackerRank | Practice, Tutorials & Interview Preparation Solutions
 
