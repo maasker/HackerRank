@@ -12,7 +12,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## Personal HackerRank Profile
 
-[View Profile](https://www.hackerrank.com/maaske)
+[View Profile](https://www.hackerrank.com/maasker)
 
 ## HackerRank Badges
 
