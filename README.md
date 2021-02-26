@@ -8,6 +8,11 @@
 
 This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **Linux**, **C++**, and **Java**.
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/maasker/HackerrankPractice.svg)](https://github.com/marinskiy/HackerrankPractice) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/maasker/HackerrankPractice.svg)](https://github.com/marinskiy/HackerrankPractice)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/maasker/HackerrankPractice.svg)](https://github.com/maasker/HackerRank) 
+[![GitHub stars](https://img.shields.io/github/stars/maasker/HackerrankPractice.svg)](https://github.com/maasker/HackerRank)
+
 ## Personal HackerRank Profile
 
 [View Profile](https://www.hackerrank.com/maaske)
